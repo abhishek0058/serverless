@@ -1,0 +1,26 @@
+{
+  "name": "aws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "aws-sdk": "^2.907.0",
+    "serverless-s3-sync": "^1.17.1",
+    "serverless-webpack": "^5.4.2",
+    "webpack": "^5.36.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek0058/serverless.git"
+  },
+  "author": "Abhishek Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek0058/serverless/issues"
+  },
+  "homepage": "https://github.com/abhishek0058/serverless#readme"
+}
